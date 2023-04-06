@@ -2,13 +2,12 @@
 //   pada suatu masalah maka akan memudahkannya  untuk menyelesaikan masalah tersebut, yaitu dengan cara mencari solusi 
 //   yang terbaik dan yang paling efisien dari masalah tersebut.
 
-
-//2. 
+//2. Numeric dan Karakter
 
 //3. Faktor-faktor yang mempengaruhi efesiensi suatu program algoritma antara lain : ruang penyimpanan (memory), 
 //   waktu penegerjaan (cepat), dan proses pemrograman (baik dan benar)
 
-//4. Menurut saya, Quick sort, Karena proses pemrogramannya lebih 
+//4. Menurut saya, Quick sort, Karena proses pemrogramannya lebih detail dengan cara mencari data yang lebih kecil 
 
 //5. Quadratic :bubble sort, insertion sort, merge sort
 //   loglincar : selection sort, shell sort, quick sort
